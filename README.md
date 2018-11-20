@@ -9,3 +9,4 @@ idea 启动配置：-Djava.library.path=D:/opencv/build/java/x64;D:/opencv/build
 
 项目内需要加入jar包，路径：D:\opencv\build\java\opencv-341.jar
 
+本项目只针对项目内视频制作瞳孔捕捉方案，要编写出自适应的瞳孔捕捉需要更多及更深入的了解。
