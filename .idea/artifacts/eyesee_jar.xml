@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="eyesee:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/eyesee_jar</output-path>
+    <root id="archive" name="eyesee.jar">
+      <element id="module-output" name="eyesee" />
+      <element id="extracted-dir" path="D:/opencv/build/java/opencv-341.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
